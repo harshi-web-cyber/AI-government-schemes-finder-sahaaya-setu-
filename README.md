@@ -1,5 +1,6 @@
 # AI-government-schemes-finder-sahaaya-setu-
-Inclusive multilingual platform that helps Indian citizens discover government schemes through AI guidance and official resources.
+Built **Sahaaya Setu**, an inclusive AI-powered platform that helps Indian citizens discover government welfare schemes they may be eligible for. The project uses multilingual support and eligibility-based matching to simplify access to official information. Users receive personalized scheme recommendations, document guidance, and verified government resources through an accessible interface. Designed with inclusivity in mind, the platform aims to bridge digital and language barriers in public service access. Focused on creating socially impactful technology that empowers informed decision-making.
+
 # 🌿 Sahaaya Setu – Inclusive AI Scheme Eligibility Helper for India
 
 ## Overview
